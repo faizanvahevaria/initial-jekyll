@@ -15,4 +15,5 @@ Initial Repo for any New Jekyll Project with Browser-Sync
     1.  npm init
     2.  sudo npm install -g gulp
     3.  npm install --save-dev gulp-shell lodash gulp browser-sync
-3. Run gulp
+3. Run "bundle install" and "bundle update"
+4. Run gulp
